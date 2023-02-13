@@ -1,0 +1,16 @@
+.align {
+    text-align: center;
+    
+  }
+  input{
+    height: 30px;
+    width: 25%;
+    margin-bottom: 10px;
+  }
+  button{
+    height: 20px;
+    width: 10%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(89, 165, 201);
+    border: none;
+  }
